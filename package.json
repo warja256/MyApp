@@ -1,0 +1,12 @@
+{
+  "name": "MyTestApp",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "main": "index.js",
+  "repository": "https://github.com/warja256/MyApp.git",
+  "author": "Varya Kush <barbarakushaeva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
